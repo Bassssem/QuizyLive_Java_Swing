@@ -44,12 +44,4 @@ git clone https://github.com/your-username/QuizyLive_Java_Swing.git
 
 Contributions are welcome! If you have any ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- Special thanks to [OpenAI](https://openai.com) for providing advanced language models like ChatGPT.
-- Inspiration for this project came from the desire to create an interactive and collaborative quiz platform.
-
+#
