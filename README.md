@@ -1,7 +1,7 @@
 # QuizyLive_Java_Swing
 # QuizyLive Desktop Application
 
-Welcome to QuizRoom, a Java Swing desktop application with an SQL database backend that allows users to create, manage, and play quizzes in real-time. This application features a sign-up and sign-in page for user authentication, a dashboard page for easy navigation, a room creation page for hosting quizzes, a quiz creation page for designing custom quizzes, and various pages for joining rooms and playing quizzes.
+Welcome to QuizyLive, a Java Swing desktop application with an SQL database backend that allows users to create, manage, and play quizzes in real-time. This application features a sign-up and sign-in page for user authentication, a dashboard page for easy navigation, a room creation page for hosting quizzes, a quiz creation page for designing custom quizzes, and various pages for joining rooms and playing quizzes.
 
 ## Features
 
