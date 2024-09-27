@@ -25,7 +25,7 @@ Welcome to QuizyLive, a Java Swing desktop application with an SQL database back
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/QuizyLive_Java_Swing.git
+git clone https://github.com/Bassssem/QuizyLive_Java_Swing.git
 ```
 
 2. Set up your SQL database and update the database connection settings in the application code.
